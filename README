@@ -3,7 +3,7 @@ All the circuits and firmware you need to drive a traffic light
 ABOUT
 =====
 
-traffic-control is a 3 channel wireless phase angle control dimmer. It uses a transformer-less power supply design + 3 opto-isolated triacs. see the schematic for more. 
+traffic-control is a 3 channel wireless phase angle control dimmer. It uses a transformer-less power supply design + 3 opto-isolated triacs. see the schematic for details.
 
 LICENSE
 =======
